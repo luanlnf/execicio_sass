@@ -1,0 +1,1 @@
+Fiz modificações e melhorias no arqauivo Css dado de exercicio no curso EBAC, utilizando sass, coloquei variaveis para cores, fontes e outros valores que aparecem repetidamente no código, facilitando futuras modificações, criei mixins para estilos comuns, como centralização com flexbox e para botões!
